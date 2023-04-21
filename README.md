@@ -1,7 +1,7 @@
 # Secure-Energy-Management-System
 
-### Conference: SIAM International Conference on Data Mining (SDM23)
-### Paper: Anomaly Detection Networks and Fuzzy Control Modules for Energy Grid Management with Q-Learning-Based Decision Making
+#### Conference: SIAM International Conference on Data Mining (SDM23)
+#### Paper: Anomaly Detection Networks and Fuzzy Control Modules for Energy Grid Management with Q-Learning-Based Decision Making
 
 ### Training
 Run:
